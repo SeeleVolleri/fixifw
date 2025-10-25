@@ -1,0 +1,6 @@
+id=fixifw
+name=Enable ifw on Boot
+version=1.0
+versionCode=1
+author=SeeleVolleri
+description=Tired setting persist.sys.ifw.enabled true on every boot?
